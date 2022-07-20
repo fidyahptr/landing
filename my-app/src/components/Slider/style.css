@@ -1,0 +1,13 @@
+.containerImage {
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+.posisitionText {
+    position: absolute;
+    bottom: 120px;
+    left: 220px;
+    background-color: rgba(32, 32, 32, 0.493);
+    padding: 20px;
+}
